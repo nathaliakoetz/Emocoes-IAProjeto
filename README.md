@@ -49,13 +49,6 @@ Ele usará a webcam, detectará seu rosto com SSD MobileNetV2, preverá a emoç�
 
 ---
 
-## 📌 Créditos
-
-- Modelo SSD MobileNetV2 via TensorFlow Hub
-- Dataset: [FER-2013 - Kaggle](https://www.kaggle.com/datasets/msambare/fer2013)
-
----
-
 ## 🧑‍💻 **Autores**  
 
 <a href="https://github.com/nathaliakoetz"><img src="https://github.com/nathaliakoetz.png" width="100" height="100"></a>
