@@ -3,8 +3,6 @@
 
 > Este projeto agora utiliza o modelo **SSD MobileNetV2** para detecção de rostos em tempo real. O modelo é carregado via **TensorFlow Hub**. A classificação de emoções é feita com o modelo treinado em FER-2013.
 
----
-
 ## 🔍 Funcionalidades
 
 - Detecção de rostos com SSD MobileNetV2 via TensorFlow Hub
@@ -12,19 +10,9 @@
 - Recomendação de playlists do Spotify conforme a emoção detectada
 - Uso de webcam para funcionamento em tempo real
 
----
-
 ## 🎯 Emoções Reconhecidas
 
-- Raiva
-- Nojo
-- Medo
-- Feliz
-- Triste
-- Surpreso
-- Neutro
-
----
+- Raiva, Nojo, Medo, Feliz, Triste, Surpreso e Neutro
 
 ## 🚀 Como Executar
 
@@ -46,8 +34,6 @@ python main.py
 ```
 
 Ele usará a webcam, detectará seu rosto com SSD MobileNetV2, preverá a emoção e abrirá uma playlist relacionada.
-
----
 
 ## 🧑‍💻 **Autores**  
 
