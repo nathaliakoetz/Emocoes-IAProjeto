@@ -40,7 +40,7 @@ print("Mapeamento das classes:", treino_generator.class_indices)
 
 # Criar e treinar o modelo
 model = criar_modelo()
-model.fit(treino_generator, epochs=10, validation_data=teste_generator)
+model.fit(treino_generator, epochs=20, validation_data=teste_generator)
 
 # Salvar modelo treinado
 model.save('modelo_final.h5')
