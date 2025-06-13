@@ -1,7 +1,7 @@
 
 # Reconhecimento de Emoções  🎭🎧
 
-> Este projeto agora utiliza o modelo **SSD MobileNetV2** para detecção de rostos em tempo real. O modelo é carregado via **TensorFlow Hub**. A classificação de emoções é feita com o modelo treinado em FER-2013.
+> Este projeto utiliza o modelo **SSD MobileNetV2** para detecção de rostos em tempo real. O modelo é carregado via **TensorFlow Hub**. A classificação de emoções é feita com o modelo treinado em FER-2013.
 
 ## 🔍 Funcionalidades
 
@@ -12,7 +12,9 @@
 
 ## 🎯 Emoções Reconhecidas
 
-- Raiva, Nojo, Medo, Feliz, Triste, Surpreso e Neutro
+| ![Raiva](https://em-content.zobj.net/thumbs/240/apple/354/pouting-face_1f621.png) <br> **Raiva** | ![Nojo](https://em-content.zobj.net/thumbs/240/apple/354/nauseated-face_1f922.png) <br> **Nojo** | ![Medo](https://em-content.zobj.net/thumbs/240/apple/354/fearful-face_1f628.png) <br> **Medo** | ![Feliz](https://em-content.zobj.net/thumbs/240/apple/354/smiling-face-with-smiling-eyes_1f60a.png) <br> **Feliz** | ![Triste](https://em-content.zobj.net/thumbs/240/apple/354/crying-face_1f622.png) <br> **Triste** | ![Surpreso](https://em-content.zobj.net/thumbs/240/apple/354/face-with-open-mouth_1f62e.png) <br> **Surpreso** | ![Neutro](https://em-content.zobj.net/thumbs/240/apple/354/expressionless-face_1f611.png) <br> **Neutro** |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+
 
 ## 🚀 Como Executar
 
